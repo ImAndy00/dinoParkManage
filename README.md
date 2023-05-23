@@ -1,5 +1,6 @@
 # dinoParkManage
 Android application that loads dinosaurs into park zones based on CSV file. User is able to view dinosaurs in zones as well as relocate them.
+Application inside Master Branch
 
 How to run:
 1. Download the Zip file and extract.
